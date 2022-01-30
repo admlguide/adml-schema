@@ -1,0 +1,22 @@
+{
+  "schema": "ADML",
+  "schemaVersion": 1.0,
+  "schemalocation": "<linkhere>",
+  "name": "ADML for Organisation A",
+  "description": "Organisation A's Enterprise Design Catalogue",
+  "version": "1.2",
+  "object":"activity",             
+   "customAttributes":[
+      {
+         "name":"Owner",
+         "value":"John Smith"
+      }
+   ], 
+   
+   "activity": [ {"activityID": "1", "activityName":"Sales Pipeline"},
+      {"activityID":"2","activityName":"Order Fulfillment"}
+             ]
+}
+
+
+
