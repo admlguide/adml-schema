@@ -84,18 +84,18 @@ Extensions can be to:
 
   
 
-  The following example demonstrates a customised :
+  The following example demonstrates a customised property:
 
 ```json
 {
-  …
-  "extension":
-  {
-  	"name": "what",
-  	…
-  	"comment": "this makes no sense; write properly in the schema",
-	}
+   "customProperties":[
+      {
+         "name":"ApprovedDate",
+         "value":"20220101"
+      }
+   ]
 }
+
 ```
 
 ### Custom objects
