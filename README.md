@@ -1,2 +1,5 @@
 # adml-schema
-The JSON schema for ADML and documentation.
+
+Welcome to the JSON schema for ADML and documentation.
+
+For more information the schema and on AADML, please see the [ADML GitHub Pages site](https://admlguide.github.io/).
